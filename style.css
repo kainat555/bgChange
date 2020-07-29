@@ -1,0 +1,20 @@
+
+div{
+    cursor: pointer;
+    padding: 10px;
+    background-color: white;
+    width: 35%;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+#a{flex: 1; background-color: red; color: red;}
+#b{flex: 1; background-color:blue ;color:blue ;}
+#c{flex: 1; background-color: green; color: green;}
+#d{flex: 1; background-color:yellow ; color: yellow;}
+#e{flex: 1; background-color: purple; color: purple;}
+#f{flex: 1; background-color: orange; color: orange;}
+#g{flex: 1; background-color: brown;  color: brown;}
+#h{flex: 1; background-color: plum;  color: plum;}
+#i{flex: 1; background-color: olive;  color: olive;}
+#j{flex: 1; background-color: silver;  color: silver;}
